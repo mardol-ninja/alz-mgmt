@@ -1,0 +1,7 @@
+configuration_file_path         = ""
+default_location                = "westeurope"
+default_postfix                 = "landing-zone"
+root_parent_management_group_id = "1aeaa045-bd0d-42d5-83ad-8ea1a23e64fc"
+subscription_id_connectivity    = "ab14520e-535c-4469-a81b-7f46e9b034f6"
+subscription_id_identity        = "ab149112-4949-43a4-b773-99e6f5e61766"
+subscription_id_management      = "693f077d-3375-4209-a0a7-faf66a9681bb"
